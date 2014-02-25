@@ -1,4 +1,8 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
+<<<<<<< HEAD
 baseurl: /18innovation/
+=======
+baseurl: /18innovation
+>>>>>>> ec37aaceddb5d452573edef5377d82097dedc41a
